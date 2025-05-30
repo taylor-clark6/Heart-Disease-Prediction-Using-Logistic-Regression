@@ -4,7 +4,7 @@ This project builds a binary classification model using **logistic regression** 
 
 ## 📁 Dataset
 
-- **Sources**: [Heart Disease Dataset]((https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset) [Framingham Heart Study Dataset](https://www.kaggle.com/datasets/aasheesh200/framingham-heart-study-dataset)
+- **Sources**: [Heart Disease Dataset](https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset) [Framingham Heart Study Dataset](https://www.kaggle.com/datasets/aasheesh200/framingham-heart-study-dataset)
 - **Format**: CSV
 - **Target Column**: `target` (1 = presence of heart disease, 0 = absence)
 
